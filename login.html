@@ -17,16 +17,14 @@
             <div class="container">
                 <h1 align="center">LOG IN</h1>
 
-                <label><b>Nome de usuario</b></label>
-                <input type="text" name="uname" maxlength="254" required>
-
-                <label><b>Senha</b></label>
-                <input type="password" name="psw" maxlength="16" required>
+                <input type="text" name="uname" maxlength="254" placeholder="Usuario" required>
+                <input type="password" name="psw" maxlength="16" placeholder="Senha" required>
 
                 <input type="checkbox" checked="checked"> Lembrar de mim
-            
-                <a href="" style="text-decoration:none"><div class="entrar">Entrar</div></a>
+
+                <a href="" style="text-decoration:none" onclick="check(this.form)"><div class="entrar">Entrar</div></a>
                 <a href="index.html" style="text-decoration:none"><div class="voltar">Voltar</div></a>
+
 
                 <div class="bottom">
                     <a href="cadastro.html">Cadastrar</a>

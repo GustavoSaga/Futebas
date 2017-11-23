@@ -87,8 +87,14 @@ header{
 .container input[type=text], input[type=password] {
   width: 95%;
   height: 25px;
-  margin: 10px 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 5px;
   display: inline-block;
+  box-sizing: border-box;
+  border: 2px solid #fff;
+  background-color: rgba(0, 155, 0, 0.5);
 }
 .container input[type=checkbox]{
   margin: 10px 10px;
