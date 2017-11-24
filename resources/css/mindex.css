@@ -94,13 +94,13 @@ article{
 
 .artigos{
   width: 100%;
-  height: 1480px;
+  height: 1500px;
   background-color: green;
   font: 50px Aileron-Regular;
 }
 .artigo1{
   width: 100%;
-  height: 493.3px;
+  height: 500px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -109,7 +109,7 @@ article{
   position: relative;
 }
 .img_artigo1{
-  width: 246.6px;
+  width: 250px;
   float: left;
   display: block;
   margin: 0 auto;
@@ -123,7 +123,7 @@ article{
 }
 .artigo2{
   width: 100%;
-  height: 493.3px;
+  height: 500px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -132,7 +132,7 @@ article{
   position: relative;
 }
 .img_artigo2{
-  width: 246.6px;
+  width: 250px;
   float: right;
   display: block;
   margin: 0 auto;
@@ -146,7 +146,7 @@ article{
 }
 .artigo3{
   width: 100%;
-  height: 493.3px;
+  height: 500px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -155,7 +155,7 @@ article{
   position: relative;
 }
 .img_artigo3{
-  width: 246.6px;
+  width: 250px;
   float: left;
   display: block;
   margin: 0 auto;
@@ -169,18 +169,18 @@ article{
 
 .download{
   width: 100%;
-  height: 720px;
+  height: 1500px;
   background-color: white;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  font: 18px Aileron-Regular;
+  font: 50px Aileron-Regular;
   color: black;
 }
 .download h1{
-  font: 23px Aileron-HeavyItalic;
+  font: 60px Aileron-HeavyItalic;
 }
 .download p{
   width: 80%;
