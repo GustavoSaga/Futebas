@@ -201,45 +201,45 @@ article{
 
 footer{
   width: 100%;
-  height: 700px;
+  height: 400px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   background-color: black;
-  font: 40px Aileron-HeavyItalic;
+  font: 30px Aileron-HeavyItalic;
   color: white;
 }
 .footer_1{
   width: 100%;
-  height: 350px;
+  height: 200px;
   float: left;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .footer_1 a:link{
-  width: 175px;
+  width: 66.6px;
 }
 .footer_1 a:visited{
   color: black;
 }
 .fb_icon{
-  width: 175px;
+  width: 66.6px;
   height: auto;
 }
 .ig_icon{
-  width: 175px;
+  width: 66.6px;
   height: auto;
 }
 .tt_icon{
-  width: 175px;
+  width: 66.6px;
   height: auto;
 }
 .footer_2{
   width: 100%;
-  height: 350px;
+  height: 200px;
   float: top;
   display: flex;
   justify-content: center;
